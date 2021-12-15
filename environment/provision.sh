@@ -14,4 +14,8 @@ sudo apt-get install git -y
 sudo apt-get install python-software-properties
 
 # install pm2
-sudo mpm install pm2 -g
+sudo npm instoall pm2 -g
+
+# setting DB
+#echo "# Setting DB Env" >> ~/.bashrc
+#echo "export DB_HOST=..." >> ~/.bashrc
